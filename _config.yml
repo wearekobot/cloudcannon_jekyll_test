@@ -8,5 +8,5 @@ github_username: ""
 markdown: kramdown
 poops: farts
 collections:
-  - case_studies
-  - staff_members
+  - case-studies
+  - staff-members

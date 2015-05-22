@@ -1,8 +1,8 @@
-title: Cool New Site
-email: "your-email@domain.com"
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+title: The Met Agency
+email: "hello@themetagency.com"
+description: "The Met is a different kind of advertising agency—we concentrate on getting to know you and understanding your needs, because we believe great relationships produce great outcomes."
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: wearekobot
-github_username: wearekobot
+url: "http://themetagency.com"
+twitter_username: themetagency
+github_username: ""
 markdown: kramdown

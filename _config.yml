@@ -9,3 +9,4 @@ markdown: kramdown
 poops: farts
 collections:
   - case_studies
+  - staff_members

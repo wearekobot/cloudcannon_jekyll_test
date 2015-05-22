@@ -8,4 +8,4 @@ github_username: ""
 markdown: kramdown
 poops: farts
 collections:
-- case_studies
+  - case_studies

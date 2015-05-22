@@ -1,0 +1,15 @@
+---
+layout: default
+title: Case Studies
+---
+{% for casestudy in site.case_studies %}
+  <article>
+	<div class="top-matter">
+	  <h1 class="title"><a href="{{ casestudy.url }}">{{ casestudy.title }}</a></h1>
+	</div>
+	<div class="post-body">
+	  {{ casestudy.excerpt }}
+	</div>
+	<p class="more"><a href="{{ casestudy.url }}">Continue reading &raquo;</a></p>
+  </article>
+{% endfor %}

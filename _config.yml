@@ -6,7 +6,6 @@ url: "http://themetagency.com"
 twitter_username: themetagency
 github_username: ""
 markdown: kramdown
-poops: farts
 collections:
   - case-studies
   - staff-members

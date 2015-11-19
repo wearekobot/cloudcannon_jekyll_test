@@ -7,5 +7,6 @@ twitter_username: themetagency
 github_username: ""
 markdown: kramdown
 collections:
-  - case-studies
-  - staff-members
+  case_studies:
+    output: true
+  staff_members

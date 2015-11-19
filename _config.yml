@@ -7,7 +7,6 @@ twitter_username: themetagency
 github_username: ""
 markdown: kramdown
 collections:
-  - case_studies:
-    - output: true
-    permalink: /case-studies/:path/
-  
+  case_studies:
+    output: true
+    permalink: /case-studies/:path.html

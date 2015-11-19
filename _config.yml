@@ -9,5 +9,5 @@ markdown: kramdown
 collections:
   - case_studies:
     - output: true
-    - permalink: /case-studies/:path/
+    permalink: /case-studies/:path/
   

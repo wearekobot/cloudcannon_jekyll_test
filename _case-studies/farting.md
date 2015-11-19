@@ -1,6 +1,9 @@
 ---
-title: Farting
+title: Example Case Study
 ---
 
-Fart **fart** _fart_ fart fart fart fart fart
-> poops are cool too though -- Bryan Kulba
+## Client: Example
+
+### Introduction
+
+When we first...
